@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:Project Name}
+# ESP8266_Balanging_ROBOT
 !! In testing phase !!
 2 wheel robot based B-Robot and Oleg Kravtchenko changes. The code is running 100% on ESP8266, this includes Motor Control, PID and OSC user interface
 ## Installation
