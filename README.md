@@ -2,7 +2,7 @@
   <content>
 # ESP8266_Balanging_ROBOT
 !! In testing phase !!
-2 wheel robot based B-Robot and Oleg Kravtchenko changes. The code is running 100% on ESP8266, this includes Motor Control, PID and OSC user interface
+2 wheel robot based B-Robot and Oleg Kravtchenko changes. The code is running 100% on ESP8266, this includes Motor Control, PID and OSC user interface on a mobile device.
 ## Installation
 Compilation using Arduino 1.6.12 and ESP8266 plugin v2.3.0
 Processor: ESP8266 Running at 3.3V !!!
