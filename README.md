@@ -11,14 +11,12 @@ Motor 2x NMEA 17 (testing)
 Gyro IMU 9150 (using i2c interface)
 
 ## Usage
-You will need to install OSC-TOUCH on a PC and upload the user interface on your mobile phone or tablet.
+-You will need to install OSC-TOUCH on a PC and upload the user interface on your mobile phone or tablet.
+-Configure the ESP code to get wifi access to your robot
+-Connect with your mobile divice to the robot
+Communication is possible over a local router (Station mode) or directly (Soft-AP mode).
 
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+
 ## History
 Code Origin:
 https://github.com/jjrobots/B-ROBOT/
