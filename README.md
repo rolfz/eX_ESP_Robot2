@@ -20,7 +20,7 @@ Communication is possible over a local router (Station mode) or directly (Soft-A
 
 ## History
 Code Origin:
-https://github.com/jjrobots/B-ROBOT/
+https://github.com/jjrobots/B-ROBOT/ and 
 http://jjrobots.com/forum/thread-826.html?highlight=only+you
 
 
