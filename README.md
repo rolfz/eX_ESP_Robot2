@@ -27,5 +27,4 @@ B-Robot and Oleg Kravtchenko
 ## License
 GPL v2
 </content>
-  <tabTrigger>readme</tabTrigger>
 </snippet>
