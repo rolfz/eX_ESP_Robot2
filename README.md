@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[
+  <content>
 # ESP8266_Balanging_ROBOT
 !! In testing phase !!
 2 wheel robot based B-Robot and Oleg Kravtchenko changes. The code is running 100% on ESP8266, this includes Motor Control, PID and OSC user interface
@@ -26,6 +26,6 @@ TODO: Write history
 B-Robot and Oleg Kravtchenko
 ## License
 GPL v2
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
